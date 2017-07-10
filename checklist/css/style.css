@@ -33,3 +33,19 @@
 .wrapper-button button{
 	width: 100%;
 }
+
+@media screen and (min-width: 595px) {	
+	.section--center .title {		
+	    display: block;
+		width: 100%;
+	}
+
+	.mdl-textfield {
+		margin: 30px 40px 30px 0;
+	}
+}
+
+.question-section.warning .question-name{
+	color: rgb(232, 76, 76);
+    font-weight: bold;
+}
