@@ -252,6 +252,7 @@
          "label":"preparacaodoalimento",
          "questions":[
             {
+               "name":"Os molhos estão sendo aquecidos da forma correta (os molhos do dia anterior na frigideira e/ou panela pela manhã até atingir no mínimo 70º C)"
             },
             {
                "name":"Matérias-primas, ingredientes e embalagens utilizadas para preparação do alimento em condições higiênico-sanitárias, adequados e em conformidade com a legislação específica"
