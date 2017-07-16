@@ -6,10 +6,10 @@
          "label":"estruturafisica",
          "questions":[
             {
-               "name":"Ausência de focos de insalubridade(imediações, local e dependências anexas limpas);ausência de insetos e roedores."
+               "name":"Ausência de focos de insalubridade(imediações, local e dependências anexas limpas);ausência de insetos e roedores"
             },
             {
-               "name":"Caixa de  gordura em bom de conservação, higiene e funcionamento, ralo sifonado e com tampa."
+               "name":"Caixa de  gordura em bom de conservação, higiene e funcionamento, ralo sifonado e com tampa"
             },
             {
                "name":"Piso, forro e paredes em adequado estado de conservação. Se não, solicitado conserto "
@@ -21,20 +21,32 @@
                "name":"Área interna do estabelecimento livre de objetos em desuso. Se não,solicitada retirada"
             },
             {
-               "name":"Luminárias localizadas na área de preparação, armazenamento e dentro dos equipamentos com proteção anti queda e funcionando. Se não, foi solicitado conserto"
+               "name":"Luminárias localizadas na área de preparação, armazenamento e dentro dos equipamentos que possam contaminar os alimentos, apropriadas e protegidas contra explosão e quedas acidentais"
             },
+            {
+               "name":"Instalações elétricas embutidas ou protegidas em tubulações externas e íntegras de tal forma a permitir a higienização dos ambientes"
+			},
             {
                "name":"Limpeza dos componentes do sistema de climatização e exaustão,troca de filtros registrados, verificados, datados e rubricados"
             },
             {
-               "name":"Lavatórios dentro da área de manipulação usados exclusivamente para higiene das mãos com sabonete líquido inodoro anti-séptico, toalhas de papel não reciclados e coletor de papel, acionado sem contato manual,higienizados sempre que necessário e no mínimo diariamente."
+               "name":"Lavatórios dentro da área de manipulação usados exclusivamente para higiene das mãos com sabonete líquido inodoro anti-séptico, toalhas de papel não reciclados e coletor de papel, acionado sem contato manual,higienizados sempre que necessário e no mínimo diariamente"
             },
             {
-               "name":"Existência de manutenção programada e periódica dos equipamentos e utensílios, com registro."
+               "name":"Existência de manutenção programada e periódica dos equipamentos e utensílios, com registro"
             },
             {
-               "name":"Existência de instrumentos ou equipamentos de medição críticos para a segurança dos alimentos, tais como termômetros, relógios, entre outros."
-            }
+               "name":"Existência de instrumentos ou equipamentos de medição críticos para a segurança dos alimentos, tais como termômetros, relógios, entre outros"
+            },
+            {
+               "name":"Registros da calibração dos termômetros verificados, datados e rubricados, quando aplicável"
+			},
+            {
+               "name":"Os utensílios encontram-se em bom estado de conservação"
+			},
+            {
+               "name":"Os equipamentos encontram-se em bom estado de conservação"
+			}
          ]
       },
       {
@@ -42,47 +54,65 @@
          "label":"higienizacaodeinstalacoes",
          "questions":[
             {
-               "name":"Equipamentos, móveis e utensílios que entram em contato com alimentos são de materiais resistentes à corrosão e a repetidas operações de limpeza e desinfecção."
+               "name":"Equipamentos, móveis e utensílios que entram em contato com alimentos são de materiais resistentes à corrosão e a repetidas operações de limpeza e desinfecção"
             },
             {
-               "name":"Operações de higienização das instalações realizadas com freqüência que garanta a manutenção das condições higiênico-sanitárias."
+               "name":"Os utensílios estão limpos"
+			},
+            {
+               "name":"Os equipamentos estão limpos"
+			},
+            {
+               "name":"Os freezeres estão descongelados e limpos"
+			},
+            {
+               "name":"Operações de higienização das instalações realizadas com freqüência que garanta a manutenção das condições higiênico-sanitárias"
             },
             {
-               "name":"Existência de registros das operações de limpeza e/ou de desinfecção das instalações e equipamentos, quando não realizadas rotineiramente, verificados, datados e rubricados."
+               "name":"Existência de registros das operações de limpeza e/ou de desinfecção das instalações e equipamentos, quando não realizadas rotineiramente, verificados, datados e rubricados"
             },
             {
-               "name":"Caixas de gordura periodicamente limpas."
+               "name":"Caixas de gordura periodicamente limpas"
             },
             {
-               "name":"Área de preparação do alimento higienizada quantas vezes forem necessárias e imediatamente após o término do trabalho."
+               "name":"Área de preparação do alimento higienizada quantas vezes forem necessárias e imediatamente após o término do trabalho"
             },
             {
-               "name":"Ausência de substâncias odorizantes ou desodorantes ou quaisquer das suas formas utilizadas, nas áreas de preparação e armazenamento de alimentos."
+               "name":"Os ralos e o piso estão limpos e sem resíduos alimentares"
+			},
+            {
+               "name":"Ausência de substâncias odorizantes ou desodorantes ou quaisquer das suas formas utilizadas, nas áreas de preparação e armazenamento de alimentos"
             },
             {
                "name":"Utilização de produtos saneantes regularizados pelo Ministério da Saúde. Possui fichas técnicas"
             },
             {
-               "name":"Diluição, tempo de contato e modo de uso/aplicação dos produtos saneantes, obedecem instruções recomendadas pelos fabricantes."
+               "name":"Diluição, tempo de contato e modo de uso/aplicação dos produtos saneantes, obedecem instruções recomendadas pelos fabricantes"
             },
             {
-               "name":"Produtos saneantes identificados e guardados em local reservado para essa finalidade, sem contato com os alimentos."
+               "name":"Produtos saneantes identificados e guardados em local reservado para essa finalidade, sem contato com os alimentos"
             },
             {
-               "name":"Utensílios, equipamentos e materiais utilizados na higienização, próprios para a atividade, conservados limpos, em número suficiente e guardados em local reservado para essa atividade."
+               "name":"Utensílios, equipamentos e materiais utilizados na higienização, próprios para a atividade, conservados limpos, em número suficiente e guardados em local reservado para essa atividade"
             },
             {
-               "name":"São utilizados panos de limpeza descartáveis em superfícies que entram em contato com alimentos e descartados diariamente."
+               "name":"Panos de limpeza descartáveis, quando utilizados em superfícies que entram em contato com alimentos, descartados a cada 2 horas, não excedendo 3 horas, não sendo utilizados novamente"
             },
             {
-               "name":"Panos de limpeza não descartáveis, quando utilizados em superfícies que entram em contato com alimentos, trocados a cada 2 horas, não excedendo 3 horas."
+               "name":"Panos de limpeza não descartáveis, quando utilizados em superfícies que entram em contato com alimentos, trocados a cada 2 horas, não excedendo 3 horas"
             },
             {
-               "name":"Panos de limpeza não descartáveis limpos através de esfregação com solução de detergente neutro, desinfetados através de fervura em água por 15 minutos ou solução clorada a 200ppm, por 15 minutos, enxaguados com água potável e corrente."
+               "name":"Panos de limpeza não descartáveis limpos através de esfregação com solução de detergente neutro, desinfetados através de fervura em água por 15 minutos ou solução clorada a 200ppm, por 15 minutos, enxaguados com água potável e corrente"
             },
             {
-               "name":"Esponjas de limpeza, quando utilizadas em superfícies que entram em contato com alimentos, desinfetadas diariamente, por fervura em água, por no mínimo 5 minutos ou outro método adequado."
-            }
+               "name":"Esponjas de limpeza, quando utilizadas em superfícies que entram em contato com alimentos, desinfetadas diariamente, por fervura em água, por no mínimo 5 minutos ou outro método adequado"
+            },
+            {
+               "name":"Há EPI'S necessários em loja? Os colaboradores estão utilizando-os corretamente e sempre que necessário"
+			},
+            {
+               "name":"As validades dos extintores estão em dia"
+			}
          ]
       },
       {
@@ -90,16 +120,16 @@
          "label":"controledepragas",
          "questions":[
             {
-               "name":"Edificação, as instalações, os equipamentos, os móveis e os utensílios livres de vetores e pragas urbanas."
+               "name":"Edificação, as instalações, os equipamentos, os móveis e os utensílios livres de vetores e pragas urbanas"
             },
             {
-               "name":"Existência de ações eficazes e contínuas de prevenção de controle de vetores e pragas urbanas, com o objetivo de impedir a atração, o abrigo, o acesso e ou proliferação dos mesmos."
+               "name":"Existência de ações eficazes e contínuas de prevenção de controle de vetores e pragas urbanas, com o objetivo de impedir a atração, o abrigo, o acesso e ou proliferação dos mesmos"
             },
             {
-               "name":"Controle químico, quando aplicável, realizado por empresa especializada, conforme legislação específica."
+               "name":"Controle químico, quando aplicável, realizado por empresa especializada, conforme legislação específica"
             },
             {
-               "name":"Existência de registros que comprovam o controle de vetores e pragas urbanas, tais como relatório de avaliação das medidas de controle realizado pela empresa especializada."
+               "name":"Existência de registros que comprovam o controle de vetores e pragas urbanas, tais como relatório de avaliação das medidas de controle realizado pela empresa especializada"
             }
          ]
       },
@@ -108,13 +138,13 @@
          "label":"abastecimentodeagua",
          "questions":[
             {
-               "name":"Gelo para utilização em alimentos fabricado a partir de água potável e mantido em condição higiênico-sanitária que evite sua contaminação. Possui laudo de potabilidade."
+               "name":"Gelo para utilização em alimentos fabricado a partir de água potável e mantido em condição higiênico-sanitária que evite sua contaminação. Possui laudo de potabilidade"
             },
             {
-               "name":"Reservatório de água higienizado em intervalo máximo de seis meses, por empresa especializada e pessoal capacitado."
+               "name":"Reservatório de água higienizado em intervalo máximo de seis meses, por empresa especializada e pessoal capacitado"
             },
             {
-               "name":"Existência de registro que comprovam a higienização do reservatório de água datados e rubricados."
+               "name":"Existência de registro que comprovam a higienização do reservatório de água datados e rubricados"
             }
          ]
       },
@@ -123,10 +153,10 @@
          "label":"manejoderesiduos",
          "questions":[
             {
-               "name":"Coletores de resíduos das áreas de preparação e armazenamento de alimentos dotados de tampas acionadas sem contato manual, devidamente identificados, íntegros, sacos plásticos em número suficiente."
+               "name":"Coletores de resíduos das áreas de preparação e armazenamento de alimentos dotados de tampas acionadas sem contato manual, devidamente identificados, íntegros, sacos plásticos em número suficiente"
             },
             {
-               "name":"Resíduos coletados na área de produção e armazenamento de alimentos retirados frequentemente e estocados em local fechado e isolado."
+               "name":"Resíduos coletados na área de produção e armazenamento de alimentos retirados frequentemente e estocados em local fechado e isolado"
             }
          ]
       },
@@ -135,34 +165,34 @@
          "label":"manipuladores",
          "questions":[
             {
-               "name":"Controle de saúde dos manipuladores realizado de acordo com legislação específica, sendo mantidos registros."
+               "name":"Controle de saúde dos manipuladores realizado de acordo com legislação específica, sendo mantidos registros"
             },
             {
-               "name":"Uniforme dos manipuladores de cor clara, limpo, em adequado estado de conservação, completo (proteção para cabelos cobrindo completamente os fios, uniforme com mangas curtas ou compridas cobrindo a totalidade da roupa pessoal e sem bolsos acima da linha da cintura, sem botões ou com botões protegidos, calças compridas, calçados fechados), exclusivo à área de preparação de alimentos e trocados, no mínimo, diariamente."
+               "name":"Uniforme dos manipuladores de cor clara, limpo, em adequado estado de conservação, completo (proteção para cabelos cobrindo completamente os fios, uniforme com mangas curtas ou compridas cobrindo a totalidade da roupa pessoal e sem bolsos acima da linha da cintura, sem botões ou com botões protegidos, calças compridas, calçados fechados), exclusivo à área de preparação de alimentos e trocados, no mínimo, diariamente"
             },
             {
-               "name":"Manipuladores dotados de boa apresentação, asseio corporal, mãos higienizadas, unhas curtas, sem esmalte, sem adornos, sem barba ou bigode e cabelos protegidos."
+               "name":"Manipuladores dotados de boa apresentação, asseio corporal, mãos higienizadas, unhas curtas, sem esmalte, sem adornos, sem barba ou bigode e cabelos protegidos"
             },
             {
-               "name":"Manipuladores adotam o hábito de não fumar, falar, assobiar, espirrar, tossir, comer, manipular dinheiro ou praticar outros atos que possam contaminar o alimento."
+               "name":"Manipuladores adotam o hábito de não fumar, falar, assobiar, espirrar, tossir, comer, manipular dinheiro ou praticar outros atos que possam contaminar o alimento"
             },
             {
-               "name":"Manipuladores higienizam cuidadosamente as mãos antes da manipulação de alimentos, principalmente após qualquer interrupção, troca de atividade e depois do uso de sanitários."
+               "name":"Manipuladores higienizam cuidadosamente as mãos antes da manipulação de alimentos, principalmente após qualquer interrupção, troca de atividade e depois do uso de sanitários"
             },
             {
-               "name":"Existência de cartazes de orientação aos manipuladores sobre a correta higienização das mãos e demais hábitos de higiene, afixados em locais apropriados."
+               "name":"Existência de cartazes de orientação aos manipuladores sobre a correta higienização das mãos e demais hábitos de higiene, afixados em locais apropriados"
             },
             {
-               "name":"Roupas e objetos pessoais guardados em armários reservados para esse fim, fora da área de produção."
+               "name":"Roupas e objetos pessoais guardados em armários reservados para esse fim, fora da área de produção"
             },
             {
-               "name":"Manipuladores supervisionados e capacitados periodicamente (com freqüência mínima anual) em higiene pessoal, manipulação de alimentos e em doenças transmitidas por alimentos."
+               "name":"Manipuladores supervisionados e capacitados periodicamente (com freqüência mínima anual) em higiene pessoal, manipulação de alimentos e em doenças transmitidas por alimentos"
             },
             {
-               "name":"Capacitações comprovadas mediante documentação."
+               "name":"Capacitações comprovadas mediante documentação"
             },
             {
-               "name":"Visitantes cumprem os requisitos de higiene e saúde estabelecidos para manipuladores."
+               "name":"Visitantes cumprem os requisitos de higiene e saúde estabelecidos para manipuladores"
             }
          ]
       },
@@ -171,43 +201,49 @@
          "label":"materiasprimas",
          "questions":[
             {
-               "name":"Matérias-primas, ingredientes e embalagens inspecionadas no recebimento, seguindo critérios pré-estabelecidos para cada produto. Critérios expostos ou em pasta na área de recebimento."
+               "name":"Matérias-primas, ingredientes e embalagens inspecionadas no recebimento, seguindo critérios pré-estabelecidos para cada produto. Critérios expostos ou em pasta na área de recebimento"
             },
             {
-               "name":"No recebimento as matérias primas são colocadas sobre estrados e não diretamente no chão e o local de recebimento está limpo."
+               "name":"No recebimento as matérias primas são colocadas sobre estrados e não diretamente no chão e o local de recebimento está limpo"
             },
             {
-               "name":"Controle da temperatura no recebimento de matérias-primas e ingredientes, de acordo com os seguintes critérios: I. Alimentos congelados: - 12° C ou inferior ou conforme rotulagem; II. Alimentos refrigerados: 7° C ou inferior ou conforme rotulagem; III. Existência de registros comprovando o controle de temperaturas no recebimento, verificados, datados e rubricados."
+               "name":"A ordem PVPS é respeitada"
+			},
+            {
+               "name":"Controle da temperatura no recebimento de matérias-primas e ingredientes, de acordo com os seguintes critérios: I. Alimentos congelados: - 12° C ou inferior ou conforme rotulagem; II. Alimentos refrigerados: 7° C ou inferior ou conforme rotulagem; III. Existência de registros comprovando o controle de temperaturas no recebimento, verificados, datados e rubricados"
             },
             {
-               "name":"Temperatura das matérias-primas, ingredientes e produtos industrializados armazenados conforme indicações do fabricante ou de acordo com os seguintes critérios: I. Alimentos congelados: - 18° C ou inferior; II. Alimentos refrigerados: inferior a 5° C;III. Existência de registros comprovando o controle de temperaturas no armazenamento, verificados, datados e rubricados."
+               "name":"Temperatura das matérias-primas, ingredientes e produtos industrializados armazenados conforme indicações do fabricante ou de acordo com os seguintes critérios: I. Alimentos congelados: - 18° C ou inferior; II. Alimentos refrigerados: inferior a 5° C;III. Existência de registros comprovando o controle de temperaturas no armazenamento, verificados, datados e rubricados"
             },
             {
-               "name":"Alimentos congelados armazenados exclusivamente sob congelamento, alimentos refrigerados armazenados exclusivamente sob refrigeração, ou conforme rotulagem."
+               "name":"Alimentos congelados armazenados exclusivamente sob congelamento, alimentos refrigerados armazenados exclusivamente sob refrigeração, ou conforme rotulagem"
             },
             {
-               "name":"Equipamentos de refrigeração e congelamento em número suficiente com as necessidades e tipos de alimentos a serem armazenados."
+               "name":"Equipamentos de refrigeração e congelamento em número suficiente com as necessidades e tipos de alimentos a serem armazenados"
             },
             {
-               "name":"Quando houver necessidade de armazenar diferentes gêneros alimentícios em um mesmo equipamento: Alimentos prontos colocados nas prateleiras superiores; II.Alimentos semi-prontos e/ou pré-preparados nas prateleiras centrais; III. Produtos crus nas prateleiras inferiores, separados entre si e dos demais produtos;IV. Todos os alimentos armazenados embalados ou protegidos em recipientes fechados e em temperaturas definidas neste regulamento."
+               "name":"Quando houver necessidade de armazenar diferentes gêneros alimentícios em um mesmo equipamento: Alimentos prontos colocados nas prateleiras superiores; II.Alimentos semi-prontos e/ou pré-preparados nas prateleiras centrais; III. Produtos crus nas prateleiras inferiores, separados entre si e dos demais produtos;IV. Todos os alimentos armazenados embalados ou protegidos em recipientes fechados e em temperaturas definidas neste regulamento"
             },
             {
-               "name":"Equipamento regulado para o alimento que necessita temperatura mais baixa."
+               "name":"Equipamento regulado para o alimento que necessita temperatura mais baixa"
             },
             {
-               "name":"A temperatura dos equipamentos de frios (geladeiras, freezeres, etc) são regularmente monitoradas e registradas em mapa de controle de temperatura."
+               "name":"Durante a limpeza ou descongelamento de equipamentos de frio, alimentos mantidos com temperatura inferior a 5º C, no caso de alimentos refrigerados, ou ≤ a – 18ºC, no caso de alimentos congelados"
+			},
+            {
+               "name":"A temperatura dos equipamentos de frios (geladeiras, freezeres, etc) são regularmente monitoradas e registradas em mapa de controle de temperatura"
             },
             {
-               "name":"As matérias-primas e ingredientes obedecem, para sua utilização o prazo de validade."
+               "name":"As matérias-primas e ingredientes obedecem, para sua utilização o prazo de validade"
             },
             {
-               "name":"Lotes das matérias-primas, ingredientes e embalagens reprovadas ou com prazos de validade vencidos, imediatamente devolvidos ao fornecedor ou identificados e armazenados separadamente até o destino final."
+               "name":"Lotes das matérias-primas, ingredientes e embalagens reprovadas ou com prazos de validade vencidos, imediatamente devolvidos ao fornecedor ou identificados e armazenados separadamente até o destino final"
             },
             {
-               "name":"Matérias-primas, ingredientes e embalagens armazenadas em local limpo e organizados de forma a garantir proteção contra contaminantes."
+               "name":"Matérias-primas, ingredientes e embalagens armazenadas em local limpo e organizados de forma a garantir proteção contra contaminantes"
             },
             {
-               "name":"Matérias-primas, ingredientes e embalagens armazenadas sobre paletes, estrados e/ou prateleiras, respeitando os espaços mínimos para adequada ventilação e higienização."
+               "name":"Matérias-primas, ingredientes e embalagens armazenadas sobre paletes, estrados e/ou prateleiras, respeitando os espaços mínimos para adequada ventilação e higienização"
             }
          ]
       },
@@ -216,61 +252,69 @@
          "label":"preparacaodoalimento",
          "questions":[
             {
-               "name":"Matérias-primas, ingredientes e embalagens utilizadas para preparação do alimento em condições higiênico-sanitárias, adequados e em conformidade com a legislação específica."
             },
             {
-               "name":"Existência de adoção de medidas a fim de minimizar o risco de contaminação cruzada."
+               "name":"Matérias-primas, ingredientes e embalagens utilizadas para preparação do alimento em condições higiênico-sanitárias, adequados e em conformidade com a legislação específica"
             },
             {
-               "name":"Produtos perecíveis expostos à temperatura ambiente pelo tempo mínimo necessário para a preparação do alimento (máximo 30 minutos)."
+               "name":"Existência de adoção de medidas a fim de minimizar o risco de contaminação cruzada"
             },
             {
-               "name":"Alimentos não utilizados na totalidade acondicionados e identificados de acordo com a rotulagem."
+               "name":"Produtos perecíveis expostos à temperatura ambiente pelo tempo mínimo necessário para a preparação do alimento (máximo 30 minutos)"
+            },
+            {
+               "name":"Alimentos não utilizados na totalidade acondicionados e identificados de acordo com a rotulagem"
 			},
             {
-               "name":"Tratamento térmico garante a temperatura de no mínimo 70° C em todas as partes do alimento."
+               "name":"Tratamento térmico garante a temperatura de no mínimo 70° C em todas as partes do alimento"
             },
             {
-				"name":"Óleos e gorduras substituídos quando houver alteração evidente das características fisíco-químicas ou sensoriais (fumaça,espuma,aroma e sabor)."
+				"name":"Óleos e gorduras substituídos quando houver alteração evidente das características fisíco-químicas ou sensoriais (fumaça,espuma,aroma e sabor)"
 			},
             {
-               "name":"Monitoramento da qualidade de óleo e gordura para frituras com registros desse controle."
+               "name":"Monitoramento da qualidade de óleo e gordura para frituras com registros desse controle"
 			},
             {
-               "name":"Descongelamento conduzido sob refrigeração à temperatura inferior a 5° C."
+               "name":"Descongelamento conduzido sob refrigeração à temperatura inferior a 5° C"
             },
             {
-               "name":"Alimentos submetidos ao descongelamento, mantidos sob refrigeração quando não utilizados imediatamente."
+               "name":"Alimentos submetidos ao descongelamento, mantidos sob refrigeração quando não utilizados imediatamente"
             },
             {
-               "name":"Temperatura do alimento preparado e conservado a quente superior a 60° C, por no máximo 6 horas."
+               "name":"Temperatura do alimento preparado e conservado a quente superior a 60° C, por no máximo 6 horas"
             },
             {
-               "name":"Existência de monitoramento, registro e ação corretiva, da temperatura de conservação a quente."
+               "name":"Temperatura do alimento preparado no processo de resfriamento reduzida de 60° C a 10° C em, no máximo, 2 horas"
+			},
+            {
+               "name":"Existência de monitoramento, registro e ação corretiva, da temperatura de conservação a quente"
             },
             {
-               "name":"Registro da temperatura de conservação a quente verificado, datado e rubricado."
+               "name":"Registro da temperatura de conservação a quente verificado, datado e rubricado"
             },
             {
-               "name":"Produtos preparados conservados em temperaturas de 4º C ou menos, conservados por 5 dias, ou em temperaturas superiores a 4º C e inferiores a 5° C, conservados por menos de cinco dias."
+               "name":"Produtos preparados conservados em temperaturas de 4º C ou menos, conservados por 5 dias, ou em temperaturas superiores a 4º C e inferiores a 5° C, conservados por menos de cinco dias"
             },
             {
-               "name":"Os alimentos congelados não sofrem descongelamento antes de serem submetidos ao tratamento térmico, excetuando-se os casos em que o fabricante do alimento recomenda o tratamento  térmico do alimento congelado (batata frita)."
+               "name":"Os alimentos congelados não sofrem descongelamento antes de serem submetidos ao tratamento térmico, excetuando-se os casos em que o fabricante do alimento recomenda o tratamento  térmico do alimento congelado (batata frita)"
             },
             {
-               "name":"Produtos preparados congelados em temperaturas iguais ou inferiores a -18° C."
+               "name":"Produtos preparados congelados em temperaturas iguais ou inferiores a -18° C"
             },
             {
-               "name":"Alimentos preparados embalados e identificados quando armazenados sob refrigeração ou congelamento."
+               "name":"Alimentos preparados embalados e identificados quando armazenados sob refrigeração ou congelamento"
             },
             {
-               "name":"Existência de registro das temperaturas de refrigeração e congelamento, verificados, datados e rubricados."
+               "name":"Existência de registro das temperaturas de refrigeração e congelamento, verificados, datados e rubricados"
             },
             {
-               "name":"Os procedimentos de higienização dos alimentos hortifrutigranjeiros seguem os seguintes critérios: I. Seleção dos alimentos, retirando partes ou produtos deteriorados e sem condições adequadas; II. Lavagem criteriosa dos alimentos um a um, com água potável; III. Desinfecção: imersão em solução clorada com 100 a 250ppm de cloro livre, por 15 minutos, ou demais produtos adequados, registrados no Ministério da Saúde, liberados para esse fim e de acordo com as indicações do fabricante; IV. Enxágüe com água potável."
+               "name":"Há borrifadores de álcool 70% disponibilizados (1 para cozinha e 1 para atendimento)"
+			},
+            {
+               "name":"Os procedimentos de higienização dos alimentos hortifrutigranjeiros seguem os seguintes critérios: I. Seleção dos alimentos, retirando partes ou produtos deteriorados e sem condições adequadas; II. Lavagem criteriosa dos alimentos um a um, com água potável; III. Desinfecção: imersão em solução clorada com 100 a 250ppm de cloro livre, por 15 minutos, ou demais produtos adequados, registrados no Ministério da Saúde, liberados para esse fim e de acordo com as indicações do fabricante; IV. Enxágüe com água potável"
             },
             {
-               "name":"Ovos utilizados obedecendo aos seguintes critérios: I. Utilização de ovos limpos, íntegros e com registro no órgão competente; II. Dentro do prazo de validade, com conservação e armazenamento que não propicie contaminação cruzada e seguindo as indicações da rotulagem; III. Ovos lavados com água potável corrente, imediatamente antes do uso, quando apresentam sujidades visíveis; IV. Não são preparados e expostos ao consumo alimentos com ovos crús, como maionese caseira, mousse, merengue, entre outros; V. Alimentos preparados somente com ovos pasteurizados, desidratados ou tratados termicamente, assegurando sua inocuidade; VI. Ovos submetidos à cocção ou fritura apresentam toda a gema dura; VII. Não são reutilizadas embalagens dos ovos para outros fins."
+               "name":"Ovos utilizados obedecendo aos seguintes critérios: I. Utilização de ovos limpos, íntegros e com registro no órgão competente; II. Dentro do prazo de validade, com conservação e armazenamento que não propicie contaminação cruzada e seguindo as indicações da rotulagem; III. Ovos lavados com água potável corrente, imediatamente antes do uso, quando apresentam sujidades visíveis; IV. Não são preparados e expostos ao consumo alimentos com ovos crús, como maionese caseira, mousse, merengue, entre outros; V. Alimentos preparados somente com ovos pasteurizados, desidratados ou tratados termicamente, assegurando sua inocuidade; VI. Ovos submetidos à cocção ou fritura apresentam toda a gema dura; VII. Não são reutilizadas embalagens dos ovos para outros fins"
             }
          ]
       },
@@ -279,16 +323,16 @@
          "label":"exposicao",
          "questions":[
             {
-               "name":"Manipuladores adotam procedimentos que minimizem o risco de contaminação dos alimentos preparados por meio da anti-sepsia das mãos ou pelo uso de luvas descartáveis."
+               "name":"Manipuladores adotam procedimentos que minimizem o risco de contaminação dos alimentos preparados por meio da anti-sepsia das mãos ou pelo uso de luvas descartáveis"
             },
             {
-               "name":"Utensílios utilizados na consumação do alimento, tais como pratos, copos, talheres devidamente higienizados e armazenados em local protegido."
+               "name":"Utensílios utilizados na consumação do alimento, tais como pratos, copos, talheres devidamente higienizados e armazenados em local protegido"
             },
             {
-               "name":"Funcionários do atendimento com uniformes limpos e bom asseio pessoal."
+               "name":"Funcionários do atendimento com uniformes limpos e bom asseio pessoal"
             },
             {
-               "name":"Funcionários responsáveis pela atividade de recebimento de dinheiro, cartões, não manipulam alimentos."
+               "name":"Funcionários responsáveis pela atividade de recebimento de dinheiro, cartões, não manipulam alimentos"
             }
          ]
       },
@@ -297,10 +341,10 @@
          "label":"responsabilidadetecnica",
          "questions":[
             {
-               "name":"Responsável pelas atividades de manipulação dos alimentos comprovadamente submetido a Curso de Capacitação em Boas Práticas para Serviços de Alimentação, abordando no mínimo: contaminação de alimentos, doenças transmitidas por alimentos, manipulação higiênica dos alimentos e Boas Práticas."
+               "name":"Responsável pelas atividades de manipulação dos alimentos comprovadamente submetido a Curso de Capacitação em Boas Práticas para Serviços de Alimentação, abordando no mínimo: contaminação de alimentos, doenças transmitidas por alimentos, manipulação higiênica dos alimentos e Boas Práticas"
             },
             {
-               "name":" Estabelecimento dispõe do documento comprobatório do Curso de Capacitação do responsável pelas atividades de manipulação dos alimentos devidamente datado, contendo a carga horária e conteúdo programático."
+               "name":" Estabelecimento dispõe do documento comprobatório do Curso de Capacitação do responsável pelas atividades de manipulação dos alimentos devidamente datado, contendo a carga horária e conteúdo programático"
             }
          ]
       }
