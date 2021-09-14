@@ -20,5 +20,13 @@
 		<div class="mdl-textfield mdl-js-textfield" style="display:block;">
 			<textarea class="mdl-textfield__input" placeholder="Obs" type="text" rows= "3" id="question-obs-{{ sectionIndex + loop.index0 }}" name="question-obs-{{ sectionIndex + loop.index0 }}"></textarea>
 		</div>
+        <div class="question-section__action-plan" style="display:none;">
+            <textarea class="mdl-textfield__input" placeholder="Plano de ação" type="text" rows= "4" id="question-pc-{{ sectionIndex + loop.index0 }}" name="question-pc-{{ sectionIndex + loop.index0 }}"></textarea>
+            <div class="mdl-textfield mdl-js-textfield">
+        		<span class="mdl-radio__label">Tempo:</span>
+                <input class="mdl-textfield__input" type="text" name="question-pc-time-{{ sectionIndex + loop.index0 }}" id="question-pc-time-{{ sectionIndex + loop.index0 }}" 
+                placeholder="...">
+            </div>
+        </div>
 	</div>
 </div>
